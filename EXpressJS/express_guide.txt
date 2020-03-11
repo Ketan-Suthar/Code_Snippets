@@ -1,0 +1,4 @@
+//for traversy media
+
+-front package manager - bower
+	- npm install -g bower
